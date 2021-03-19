@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshokPasupuleti002
 - 👀 I’m interested in ...learning Hacking  
-- 🌱 I’m currently learning ...SAP
+- 🌱 I’m currently learning ...RAP
 - 💞️ I’m looking to collaborate on ...Team
 - 📫 How to reach me ...pashokkumar002@gmail.com
 
