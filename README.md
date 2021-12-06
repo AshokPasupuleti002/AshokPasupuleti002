@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasupuleti Ashok Kumar</h1>
-<h3 align="center">A passionate Python & Django(Web Developer) from India</h3>
+<h3 align="center">A passionate Python & Django(Web Application Developer) from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashokpasupuleti002&label=Profile%20views&color=0e75b6&style=flat" alt="ashokpasupuleti002" /> </p>
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **pashokkumar002@gmail.com**
 
-- 📄 Know about my experiences [No Experience](No Experience)
+- 📄 Know about my experiences [No Experience]
 
 - ⚡ Fun fact **Smile it confuses people**
 
